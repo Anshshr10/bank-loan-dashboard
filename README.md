@@ -35,9 +35,9 @@ It extracts key loan metrics like total applications, repayments, interest rates
 
 ## 📸 Dashboard Screenshots
 
-![Dashboard 1](images/dashboard1.png)  
-![Dashboard 2](images/dashboard2.png)  
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 1](Tableau/dashboard1.png)  
+![Dashboard 2](Tableau/dashboard2.png)  
+![Dashboard 3](Tableau/dashboard3.png)
 
 ---
 
